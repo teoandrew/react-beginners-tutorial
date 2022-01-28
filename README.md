@@ -12,6 +12,7 @@ I aim to nail down the fundamentals of React going through this tutorial, then e
 JavaScript or just wing it and try said intermediate project again.
 
 **Regarding the old and new React app commits:**
+
 The old one was created with npm, and Mosh specifically requested that we create the app using the commands:
 sudo npm i -g create-react-app@1.5.2
 However, according to a StackOverflow contributor named Ali, he mentioned in his answer to this question
