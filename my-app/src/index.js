@@ -16,3 +16,4 @@ console.log(element); // logging element onto the console
 ReactDOM.render(element, document.getElementById('root')); 
 // ReactDOM gets a reference of 'element' and renders it inside the element referenced in the second parameter
 
+/* Pressing pause here. Gotta go learn JavaScript first hahaha */
